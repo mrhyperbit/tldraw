@@ -5,7 +5,7 @@
 	</picture>
 </div>
 
-# tldraw
+# Fork of tldraw before the license change
 
 Welcome to the public monorepo for [tldraw](https://tldraw.com).
 
